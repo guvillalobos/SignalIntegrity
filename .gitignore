@@ -1,0 +1,12 @@
+*~
+*#
+*.pyc
+*.aux
+*.log
+*.project
+*.pydevproject
+*.p
+SignalIntegrity.egg-info/
+Doc/xhtml
+build/
+dist/

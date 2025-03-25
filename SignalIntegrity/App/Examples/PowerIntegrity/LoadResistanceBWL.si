@@ -1,0 +1,20 @@
+<Project>
+	<CalculationProperties>
+		<EndFrequency>2000000.0</EndFrequency>
+		<FrequencyPoints>40000</FrequencyPoints>
+		<UserSampleRate>8000000.0</UserSampleRate>
+	</CalculationProperties>
+	<Drawing>
+		<DrawingProperties>
+			<Geometry>711x363+27+56</Geometry>
+			<Grid>16.0</Grid>
+			<Originx>-4</Originx>
+			<Originy>2</Originy>
+		</DrawingProperties>
+		<Schematic>
+		</Schematic>
+	</Drawing>
+	<Equations>
+		<AutoDebug>True</AutoDebug>
+	</Equations>
+</Project>
