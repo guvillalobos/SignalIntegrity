@@ -18,7 +18,7 @@
 # If not, see <https://www.gnu.org/licenses/>
 
 from SignalIntegrity.Lib.Devices.SeriesZ import SeriesZ
-from numpy import math
+from numpy import sqrt
 
 def SeriesRse(f,Rse,Z0=None):
     """Series Skin-effect Resistance

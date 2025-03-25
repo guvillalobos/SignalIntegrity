@@ -18,7 +18,7 @@
 # If not, see <https://www.gnu.org/licenses/>
 
 from SignalIntegrity.Lib.Devices.TerminationZ import TerminationZ
-from numpy import math
+from numpy import pi
 
 def TerminationL(L,f,Z0=None):
     """Termination (one-port) inductance
